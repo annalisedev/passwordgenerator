@@ -18,3 +18,12 @@ A screenshot of the deployed application can be found in assets:
 
 .assets/Screenshot_PasswordGenerator.png
 
+## Support
+
+Some external sources that supported me to understand the task and write the code are included in the below links;
+
+https://www.youtube.com/watch?v=x4HUaiazDes
+
+https://stackoverflow.com/questions/61021441/random-password-generator-javascript 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment

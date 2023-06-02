@@ -2,7 +2,7 @@
 
 ## Link to Deployed Application
 
-A link to the deployed application can be found here: 
+A link to the deployed application can be found here: https://annalisedev.github.io/passwordgenerator/Develop/  
 
 ## Description
 
@@ -14,7 +14,7 @@ The Github Repository can be found here: https://github.com/annalisedev/password
 
 ## Screenshot
 
-A screenshot of the deployed application can be found in assets.
+A screenshot of the deployed application can be found in assets:
 
-.assets/
+.assets/Screenshot_PasswordGenerator.png
 
